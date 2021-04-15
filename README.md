@@ -1,5 +1,7 @@
 # IBM-Data-Science-Certfication Project 2019
 
+*To open project in browser without Ipython use HTML file*
+
 ##### Python packages used : 
 1. Pandas, Numpy
 2. matplotlib, seaborn
